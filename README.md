@@ -13,11 +13,8 @@ I have used html, css, javascript, jQuery, Bootstrap, AJAX.
 ### List of Endpoints
 
 https://api.github.com/search
-
 https://api.github.com/search/users
-
 https://api.github.com/users/followers
-
 https://api.github.com/users/following
 
 ## URL to my Resume
